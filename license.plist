@@ -41,6 +41,19 @@
 		<string>This text cannot be saved. This disk may be full or locked, or the file may be locked.</string>
 		<string>Unable to print. Make sure you’ve selected a printer.</string>
 	</array>
+	<key>lt</key>
+	<array>
+		<integer>0</integer>
+		<string>Lietuviškai</string>
+		<string>Sutinku</string>
+		<string>Nesutinku</string>
+		<string>Spausdinti</string>
+		<string>Išsaugoti...</string>
+		<string>SVARBU - Perskaitykite šias licencijos sąlygas. Jei sutinkate su licencijos sąlygomis, spustelėkite Sutinku.</string>
+		<string>Licencijos Sąlygos</string>
+		<string>Nepavyko išsaugoti teksto.</string>
+		<string>Nepavyko išspausdinti. Patikrinkite, ar tikrai pasirinkote spausdintuvą.</string>
+	</array>
 	<key>fi</key>
 	<array>
 		<integer>0</integer>
