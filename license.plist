@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>da</key>
+	<array>
+		<integer>0</integer>
+		<string>Dansk</string>
+		<string>Enig</string>
+		<string>Uenig</string>
+		<string>Udskriv</string>
+		<string>Arkiver...</string>
+		<string>Hvis du accepterer betingelserne i licensaftalen, skal du klikke på “Enig” for at installere softwaren. Klik på “Uenig” for at annullere installeringen.</string>
+		<string>Licensaftale for software</string>
+		<string>Teksten kan ikke arkiveres. Disken er evt. fuld eller låst, eller også er arkivet låst.</string>
+		<string>Kan ikke udskrive. Sørg for, at der er valgt en printer.</string>
+	</array>
+	<key>nl</key>
+	<array>
+		<integer>0</integer>
+		<string>Nederlands</string>
+		<string>Ja</string>
+		<string>Nee</string>
+		<string>Print</string>
+		<string>Bewaar...</string>
+		<string>Indien u akkoord gaat met de voorwaarden van deze licentie, kunt u op &apos;Ja&apos; klikken om de programmatuur te installeren. Indien u niet akkoord gaat, klikt u op &apos;Nee&apos;.</string>
+		<string>Softwarelicentie</string>
+		<string>De tekst kan niet worden bewaard. Het kan zijn dat uw schijf vol of beveiligd is of dat het bestand beveiligd is.</string>
+		<string>Afdrukken niet mogelijk. Zorg dat er een printer is geselecteerd.</string>
+	</array>
+	<key>en</key>
+	<array>
+		<integer>0</integer>
+		<string>English</string>
+		<string>Agree</string>
+		<string>Disagree</string>
+		<string>Print</string>
+		<string>Save...</string>
+		<string>IMPORTANT - Read this License Agreement carefully before clicking on the &quot;Agree&quot; button.  By clicking on the &quot;Agree&quot; button, you agree to be bound by the terms of the License Agreement.</string>
+		<string>Software License Agreement</string>
+		<string>This text cannot be saved. This disk may be full or locked, or the file may be locked.</string>
+		<string>Unable to print. Make sure you’ve selected a printer.</string>
+	</array>
+	<key>fi</key>
+	<array>
+		<integer>0</integer>
+		<string>Suomi</string>
+		<string>Hyväksyn</string>
+		<string>En hyväksy</string>
+		<string>Tulosta</string>
+		<string>Tallenna…</string>
+		<string>Hyväksy lisenssisopimuksen ehdot osoittamalla ’Hyväksy’. Jos et hyväksy sopimuksen ehtoja, osoita ’En hyväksy’.</string>
+		<string>Lisenssisopimus</string>
+		<string>Tekstiä ei voida tallentaa. Levy voi olla täynnä tai lukittu.</string>
+		<string>Tekstiä ei voida tulostaa. Varmista, että kirjoitin on valittu.</string>
+	</array>
+	<key>fr</key>
+	<array>
+		<integer>0</integer>
+		<string>Français</string>
+		<string>Accepter</string>
+		<string>Refuser</string>
+		<string>Imprimer</string>
+		<string>Enregistrer...</string>
+		<string>Si vous acceptez les termes de la présente licence, cliquez sur « Accepter » afin d&apos;installer le logiciel. Si vous n&apos;êtes pas d&apos;accord avec les termes de la licence, cliquez sur « Refuser ».</string>
+		<string>Contrat de licence de logiciel</string>
+		<string>Ce texte ne peut être sauvegardé. Le disque est peut-être saturé ou verrouillé, ou bien le fichier est peut-être verrouillé.</string>
+		<string>Impression impossible. Assurez-vous d’avoir sélectionné une imprimante.</string>
+	</array>
+	<key>de</key>
+	<array>
+		<integer>0</integer>
+		<string>Deutsch</string>
+		<string>Akzeptieren</string>
+		<string>Ablehnen</string>
+		<string>Drucken</string>
+		<string>Sichern...</string>
+		<string>Klicken Sie in “Akzeptieren”, wenn Sie mit den Bestimmungen des Software-Lizenzvertrags einverstanden sind. Falls nicht, bitte “Ablehnen” anklicken. Sie können die Software nur installieren, wenn Sie “Akzeptieren” angeklickt haben.</string>
+		<string>Software-Lizenzvertrag</string>
+		<string>Dieser Text kann nicht gesichert werden. Diese Festplatte ist möglicherweise voll oder geschützt oder der Ordner ist geschützt.</string>
+		<string>Es kann nicht gedruckt werden. Bitte stellen Sie sicher, daß ein Drucker ausgewählt ist.</string>
+	</array>
+	<key>it</key>
+	<array>
+		<integer>0</integer>
+		<string>Italiano</string>
+		<string>Accetto</string>
+		<string>Rifiuto</string>
+		<string>Stampa</string>
+		<string>Registra...</string>
+		<string>Se accetti le condizioni di questa licenza, fai clic su &quot;Accetto&quot; per installare il software. Altrimenti fai clic su &quot;Rifiuto&quot;.</string>
+		<string>Licenza Software</string>
+		<string>Non posso registrare il testo. Il disco potrebbe essere pieno o protetto oppure il documento potrebbe essere protetto.</string>
+		<string>Non posso stampare. Assicurati di aver selezionato una stampante.</string>
+	</array>
+	<key>ja</key>
+	<array>
+		<integer>1</integer>
+		<string>Japanese</string>
+		<string>同意します</string>
+		<string>同意しません</string>
+		<string>印刷する</string>
+		<string>保存...</string>
+		<string>本ソフトウエア使用許諾契約の条件に同意される場合には、ソフトウエアをインストールするために「同意します」を押してください。　同意されない場合には、「同意しません」を押してください。</string>
+		<string>ソフトウェア使用許諾契約</string>
+		<string>このテキストは、保存できません。このディスクに空きが無いかロックされている可能性があります。または、このファイルがロックされている可能性があります。</string>
+		<string>印刷できません。プリンタが正しく選択されていることを確認してください。</string>
+	</array>
+	<key>ko</key>
+	<array>
+		<integer>3</integer>
+		<string>Korean</string>
+		<string>동의</string>
+		<string>동의 안함</string>
+		<string>프린트</string>
+		<string>저장...</string>
+		<string>사용 계약서의 내용에 동의하면, &quot;동의&quot; 단추를 눌러 소프트웨어를 설치하십시오. 동의하지 않는다면, &quot;동의 안함&quot; 단추를 누르십시오.</string>
+		<string>사용 계약 동의서</string>
+		<string>이 텍스트를 저장할 수 없습니다. 이 디스크는 꽉 찼거나 잠겨 있습니다. 또는 파일이 잠겨 있을 수도 있습니다.</string>
+		<string>프린트할 수 없습니다. 프린터를 선택했는지 확인하십시오.</string>
+	</array>
+	<key>nb</key>
+	<array>
+		<integer>0</integer>
+		<string>Norsk</string>
+		<string>Enig</string>
+		<string>Ikke enig</string>
+		<string>Skriv ut</string>
+		<string>Arkiver...</string>
+		<string>Hvis De er enig i bestemmelsene i denne lisensavtalen, klikker De på &quot;Enig&quot;-knappen for å installere programvaren. Hvis De ikke er enig, klikker De på &quot;Ikke enig&quot;.</string>
+		<string>Programvarelisensavtale</string>
+		<string>Denne teksten kan ikke arkiveres. Disken kan være full eller låst, eller filen kan være låst. </string>
+		<string>Kan ikke skrive ut. Forsikre deg om at du har valgt en skriver. </string>
+	</array>
+	<key>pt</key>
+	<array>
+		<integer>0</integer>
+		<string>Português</string>
+		<string>Concordar</string>
+		<string>Discordar</string>
+		<string>Imprimir</string>
+		<string>Salvar...</string>
+		<string>Se está de acordo com os termos desta licença, pressione &quot;Concordar&quot; para instalar o software. Se não está de acordo, pressione &quot;Discordar&quot;.</string>
+		<string>Licença de Uso de Software</string>
+		<string>Este texto não pode ser salvo. O disco pode estar cheio ou
+bloqueado, ou o arquivo pode estar bloqueado.</string>
+		<string>Não é possível imprimir. Comprove que você selecionou uma impressora.</string>
+	</array>
+	<key>es</key>
+	<array>
+		<integer>0</integer>
+		<string>Español</string>
+		<string>Aceptar</string>
+		<string>No aceptar</string>
+		<string>Imprimir</string>
+		<string>Guardar...</string>
+		<string>Si está de acuerdo con los términos de esta licencia, pulse &quot;Aceptar&quot; para instalar el software. En el supuesto de que no esté de acuerdo con los términos de esta licencia, pulse &quot;No aceptar.&quot;</string>
+		<string>Licencia de Software</string>
+		<string>Este texto no se puede guardar. El disco puede estar lleno o bloqueado, o el archivo puede estar bloqueado.</string>
+		<string>No se puede imprimir. Compruebe que ha seleccionado una impresora.</string>
+	</array>
+	<key>sv</key>
+	<array>
+		<integer>0</integer>
+		<string>Svensk</string>
+		<string>Godkänns</string>
+		<string>Avböjs</string>
+		<string>Skriv ut</string>
+		<string>Spara...</string>
+		<string>Om Du godkänner licensvillkoren klicka på &quot;Godkänns&quot; för att installera programprodukten. Om Du inte godkänner licensvillkoren, klicka på &quot;Avböjs&quot;.</string>
+		<string>Licensavtal för Programprodukt</string>
+		<string>Den här texten kan inte sparas eftersom antingen skivan är full eller skivan och/eller dokumentet är låst.</string>
+		<string>Kan inte skriva ut. Kontrollera att du har valt en skrivare. </string>
+	</array>
+</dict>
+</plist>
