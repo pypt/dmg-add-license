@@ -1,0 +1,26 @@
+/*
+ *  main.c
+ *
+ *  Created by Rainer Brockerhoff on 29/4/08.
+ *  Copyright 2008-2010 Rainer Brockerhoff. All rights reserved.
+ *
+ *  This command-line utility adds one license at a time to unflattened disk images.
+ *  It's meant to be used inside build scripts.
+ *
+ *  Usage: AddLicense /path/to/TheUnflattened.dmg Language /path/to/TheLicense.rtf
+ *
+ *  The language parameter can be either short (en) or long (English) form.
+ *  The strings for each language are inside the license.plist file.
+ *  There must be one number and 9 strings for every language; the number is the output string
+ *  encoding (kTextEncodingMacXYZ in TextCommon.h). The string group is actually indexed
+ *  by the ISO short language name. All strings are converted to the encoding
+ *  specified; usually this should be MacRoman.
+ *
+ *  This should run on 10.5 and up.
+ *  
+ */
+
+See also:
+
+* http://brockerhoff.net/src/index.html
+* http://brockerhoff.net/blog/2010/02/10/addlicense-tool/
