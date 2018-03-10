@@ -87,11 +87,11 @@
 		<string>Akzeptieren</string>
 		<string>Ablehnen</string>
 		<string>Drucken</string>
-		<string>Sichern...</string>
-		<string>Klicken Sie in “Akzeptieren”, wenn Sie mit den Bestimmungen des Software-Lizenzvertrags einverstanden sind. Falls nicht, bitte “Ablehnen” anklicken. Sie können die Software nur installieren, wenn Sie “Akzeptieren” angeklickt haben.</string>
+		<string>Speichern...</string>
+		<string>Klicken Sie auf “Akzeptieren”, wenn Sie mit den Bestimmungen des Software-Lizenzvertrags einverstanden sind. Falls nicht, bitte “Ablehnen” anklicken. Sie können die Software nur installieren, wenn Sie “Akzeptieren” angeklickt haben.</string>
 		<string>Software-Lizenzvertrag</string>
-		<string>Dieser Text kann nicht gesichert werden. Diese Festplatte ist möglicherweise voll oder geschützt oder der Ordner ist geschützt.</string>
-		<string>Es kann nicht gedruckt werden. Bitte stellen Sie sicher, daß ein Drucker ausgewählt ist.</string>
+		<string>Dieser Text kann nicht gespeichert werden. Diese Festplatte ist möglicherweise voll oder geschützt oder der Ordner ist geschützt.</string>
+		<string>Es kann nicht gedruckt werden. Bitte stellen Sie sicher, dass ein Drucker ausgewählt ist.</string>
 	</array>
 	<key>it</key>
 	<array>
