@@ -27,7 +27,7 @@
 #include "license.plist.h"
 
 // When referencing resource layouts, always make sure of 68K aligment
-#pragma options align=mac68k
+//#pragma options align=mac68k
 typedef struct LPic {
 	UInt16 defLang;
 	UInt16 count;
@@ -115,12 +115,18 @@ int main(int argc, char *argv[]) {
 		printf("'%s' dictionary strings error (should be 10 items)\n",isoch+1);
 		return 1;
 	}
-	UInt32 encoding = kTextEncodingMacRoman;
-	CFNumberRef enc = CFArrayGetValueAtIndex(strings, 0);
-	if (CFGetTypeID(enc)!=CFNumberGetTypeID()) {
-		printf("'%s' dictionary strings error (first item must be a number)\n",isoch+1);
-		return 1;
-	}
+
+    // We should get ID of encoding, for exaple Japanise language can be encoded with kTextEncodingMacJapanese
+    UInt32 encoding = kTextEncodingMacRoman;
+    CFNumberRef enc = CFArrayGetValueAtIndex(strings, 0);
+
+    if (!CFNumberGetValue(enc, kCFNumberSInt32Type, &encoding)){
+        printf("'%s' dictionary strings error (first item can't be convert to int)\n",isoch+1);
+        return 1;
+    };
+
+    printf("Detected: '%s (%s)', LangCode = %d, RegionCode = %d, Encoding = %d\n", argv[2],isoch+1,lang,region, encoding);
+
 //	Set up the STR* resource here. No worries about RAM, so we do a sufficiently large size,
 //	and whittle it down later.
 	Handle strsh = NewHandleClear(32768);
