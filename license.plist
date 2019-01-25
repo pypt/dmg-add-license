@@ -185,5 +185,44 @@ bloqueado, ou o arquivo pode estar bloqueado.</string>
 		<string>Den här texten kan inte sparas eftersom antingen skivan är full eller skivan och/eller dokumentet är låst.</string>
 		<string>Kan inte skriva ut. Kontrollera att du har valt en skrivare. </string>
 	</array>
+    <key>zh-Hant</key>
+    <array>
+        <integer>2</integer>
+        <string>Traditional Chinese</string>
+        <string>同意</string>
+        <string>不同意</string>
+        <string>列印</string>
+        <string>儲存……</string>
+        <string>重要事項 - 按下「同意」按鈕前，請先仔細閱讀此授權協議。按下「同意」按鈕，表示您同意受授權協議的約束。</string>
+        <string>軟體授權協議</string>
+        <string>無法儲存此簡訊。磁碟可能已滿或被鎖定，或檔案可能被鎖定。</string>
+        <string>無法列印。請確認您已選擇印表機。</string>
+    </array>
+    <key>zh-HK</key>
+    <array>
+        <integer>2</integer>
+        <string>Traditional Chinese (Honkong)</string>
+        <string>同意</string>
+        <string>不同意</string>
+        <string>列印</string>
+        <string>儲存……</string>
+        <string>重要事項 - 按下「同意」按鈕前，請先仔細閱讀此授權協議。按下「同意」按鈕，表示您同意受授權協議的約束。</string>
+        <string>軟體授權協議</string>
+        <string>無法儲存此簡訊。磁碟可能已滿或被鎖定，或檔案可能被鎖定。</string>
+        <string>無法列印。請確認您已選擇印表機。</string>
+    </array>
+    <key>zh-Hans</key>
+    <array>
+        <integer>25</integer>
+        <string>Simplified Chinese</string>
+        <string>同意</string>
+        <string>不同意</string>
+        <string>打印</string>
+        <string>保存...</string>
+        <string>重要信息 - 请务必仔细读完本许可协议，然后再点击&quot;同意&quot;按钮。一旦点击&quot;同意&quot;按钮，即表示您同意接受许可协议条款的约束。</string>
+        <string>软件许可协议</string>
+        <string>此文本无法保存。此磁盘可能已满或已被锁定，或文件可能已被锁定。</string>
+        <string>无法打印。请确保您已经选择了打印机。</string>
+    </array>
 </dict>
 </plist>
