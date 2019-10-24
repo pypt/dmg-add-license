@@ -27,7 +27,7 @@
 #include "license.plist.h"
 
 // When referencing resource layouts, always make sure of 68K aligment
-#pragma options align=mac68k
+#pragma pack(2)
 typedef struct LPic {
 	UInt16 defLang;
 	UInt16 count;
